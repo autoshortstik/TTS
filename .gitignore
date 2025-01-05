@@ -1,0 +1,7 @@
+# Ignorar o diretório __pycache__ e arquivos de compilação Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar o arquivo .env
+.env
